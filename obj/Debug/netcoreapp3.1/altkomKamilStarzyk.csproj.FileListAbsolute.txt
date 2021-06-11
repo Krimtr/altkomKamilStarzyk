@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.exe
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.deps.json
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.runtimeconfig.json
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.dll
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\bin\Debug\netcoreapp3.1\altkomKamilStarzyk.pdb
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.dll
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.pdb
+C:\Users\Student\Desktop\Code\altkomKamilStarzyk\obj\Debug\netcoreapp3.1\altkomKamilStarzyk.genruntimeconfig.cache
